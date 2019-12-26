@@ -1,4 +1,3 @@
-# sp-1
 # 效果图
 ![image](https://github.com/oootis/sp-1/blob/master/img/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20191205213125.png)
 ![image](https://github.com/oootis/sp-1/blob/master/img/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_201912052131251.png)
